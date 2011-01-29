@@ -5,8 +5,6 @@
 # Object-Oriented Programming" published by Addison-Wesley (ISBN 0 201 54709
 # 0)
 #
-# It is an experiment in Ruby to see how easily a perl-er can pick it up.
-#
 ###############################################################################
 
 SIZE = 8
