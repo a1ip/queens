@@ -1,4 +1,4 @@
-#!/home/phil/.rvm/rubies/ruby-1.9.2-head/bin/ruby
+#!/home/phil/.rvm/rubies/ruby-1.9.2-p136/bin/ruby
 #
 # This is a pretty straight translation of Timothy Budd's Objective C 8 queens
 # solution presented in Appendix A of the first edition of "An Introduction To
